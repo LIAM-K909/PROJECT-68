@@ -1,0 +1,27 @@
+body
+{
+    text-align: center;
+    padding:inherit;
+}
+#school_heading
+{
+    font-size: 100px;
+}
+#aboutschool
+{
+    
+    background: linear-gradient(#60abeb 0%, #27ae60 100%);
+}
+#specifications
+{
+    background: linear-gradient(lightyellow, lightgreen, lightyellow)
+}
+#facility
+{
+    background: linear-gradient(green, lightcyan, green)
+}
+#my_navbar
+{
+    background: grey;
+    color: white;
+}
